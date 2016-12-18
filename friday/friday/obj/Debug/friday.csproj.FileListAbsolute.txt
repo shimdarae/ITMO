@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\Системное ПО\friday\friday\bin\Debug\friday.exe.config
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\Системное ПО\friday\friday\bin\Debug\friday.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\Системное ПО\friday\friday\bin\Debug\friday.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\Системное ПО\friday\friday\obj\Debug\friday.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\Системное ПО\friday\friday\obj\Debug\friday.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\Системное ПО\friday\friday\obj\Debug\friday.csprojResolveAssemblyReference.cache
